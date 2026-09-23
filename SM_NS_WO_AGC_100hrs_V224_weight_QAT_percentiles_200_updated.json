@@ -1,0 +1,1802 @@
+{
+    "input_1": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -64.0,
+                "max": 64.0
+            }
+        },
+        "mode": "DNN"
+    },
+    "zero_padding2d": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -64.0,
+                "max": 64.0
+            }
+        },
+        "mode": "DNN"
+    },
+    "conv2d": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -36.90299606323242,
+                "max": 38.89484405517578
+            }
+        },
+        "mode": "DNN"
+    },
+    "batch_normalization": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -69.55774130401612,
+                "max": 69.21979001173531
+            }
+        },
+        "mode": "DNN"
+    },
+    "re_lu": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 69.21979001173531
+            }
+        },
+        "mode": "DNN"
+    },
+    "zero_padding2d_1": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 69.08381781989874
+            }
+        },
+        "mode": "DNN"
+    },
+    "conv2d_1": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -63.32655161331176,
+                "max": 73.15268179084342
+            }
+        },
+        "mode": "DNN"
+    },
+    "batch_normalization_1": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -47.0164647586441,
+                "max": 45.94109040733065
+            }
+        },
+        "mode": "DNN"
+    },
+    "re_lu_1": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 45.94109040733065
+            }
+        },
+        "mode": "DNN"
+    },
+    "zero_padding2d_2": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 45.83509489560311
+            }
+        },
+        "mode": "DNN"
+    },
+    "conv2d_3": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -23.06786844650269,
+                "max": 35.93740744163415
+            }
+        },
+        "mode": "DNN"
+    },
+    "batch_normalization_3": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -49.97677898635864,
+                "max": 39.65616931556178
+            }
+        },
+        "mode": "DNN"
+    },
+    "re_lu_2": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 39.65616931556178
+            }
+        },
+        "mode": "DNN"
+    },
+    "zero_padding2d_3": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 39.45027811646651
+            }
+        },
+        "mode": "DNN"
+    },
+    "conv2d_4": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -49.82167577476501,
+                "max": 49.19377321173488
+            }
+        },
+        "mode": "DNN"
+    },
+    "batch_normalization_4": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -43.66119328777313,
+                "max": 35.060072353579926
+            }
+        },
+        "mode": "DNN"
+    },
+    "re_lu_3": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 35.060072353579926
+            }
+        },
+        "mode": "DNN"
+    },
+    "zero_padding2d_4": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 34.88205487430423
+            }
+        },
+        "mode": "DNN"
+    },
+    "conv2d_6": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -49.79862723400116,
+                "max": 33.97262999282793
+            }
+        },
+        "mode": "DNN"
+    },
+    "batch_normalization_6": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -40.63159062160492,
+                "max": 32.14295216991468
+            }
+        },
+        "mode": "DNN"
+    },
+    "re_lu_4": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 32.14295216991468
+            }
+        },
+        "mode": "DNN"
+    },
+    "zero_padding2d_5": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 31.87376594861701
+            }
+        },
+        "mode": "DNN"
+    },
+    "conv2d_7": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -43.47784784530639,
+                "max": 34.74186704955673
+            }
+        },
+        "mode": "DNN"
+    },
+    "batch_normalization_7": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -35.9951410099411,
+                "max": 24.377150598616023
+            }
+        },
+        "mode": "DNN"
+    },
+    "re_lu_5": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 24.377150598616023
+            }
+        },
+        "mode": "DNN"
+    },
+    "zero_padding2d_6": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 24.20482140304773
+            }
+        },
+        "mode": "DNN"
+    },
+    "conv2d_9": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -22.337762152996063,
+                "max": 17.350919028775024
+            }
+        },
+        "mode": "DNN"
+    },
+    "batch_normalization_9": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -22.70542295698166,
+                "max": 16.056206578248975
+            }
+        },
+        "mode": "DNN"
+    },
+    "re_lu_6": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 16.056206578248975
+            }
+        },
+        "mode": "DNN"
+    },
+    "zero_padding2d_7": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 15.875068728436986
+            }
+        },
+        "mode": "DNN"
+    },
+    "conv2d_10": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -28.76556584602356,
+                "max": 25.09469504881417
+            }
+        },
+        "mode": "DNN"
+    },
+    "batch_normalization_10": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -18.20954995979309,
+                "max": 15.738768735368808
+            }
+        },
+        "mode": "DNN"
+    },
+    "re_lu_7": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 15.738768735368808
+            }
+        },
+        "mode": "DNN"
+    },
+    "zero_padding2d_8": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 15.561210305065517
+            }
+        },
+        "mode": "DNN"
+    },
+    "conv2d_12": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -23.320514714374543,
+                "max": 24.95839787656587
+            }
+        },
+        "mode": "DNN"
+    },
+    "batch_normalization_12": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -15.224026028966904,
+                "max": 14.929916132923267
+            }
+        },
+        "mode": "DNN"
+    },
+    "re_lu_8": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 14.929916132923267
+            }
+        },
+        "mode": "DNN"
+    },
+    "zero_padding2d_9": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 14.64744867834861
+            }
+        },
+        "mode": "DNN"
+    },
+    "conv2d_13": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -18.23407954595566,
+                "max": 20.685651863258613
+            }
+        },
+        "mode": "DNN"
+    },
+    "batch_normalization_13": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -13.706328800354004,
+                "max": 15.744829159230278
+            }
+        },
+        "mode": "DNN"
+    },
+    "re_lu_9": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 15.744829159230278
+            }
+        },
+        "mode": "DNN"
+    },
+    "zero_padding2d_10": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 14.572431824980782
+            }
+        },
+        "mode": "DNN"
+    },
+    "conv2d_14": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -26.81864294977188,
+                "max": 34.95862112418672
+            }
+        },
+        "mode": "DNN"
+    },
+    "batch_normalization_14": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -15.95948073735237,
+                "max": 23.894672070220963
+            }
+        },
+        "mode": "DNN"
+    },
+    "re_lu_10": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 23.894672070220963
+            }
+        },
+        "mode": "DNN"
+    },
+    "zero_padding2d_11": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 20.889573616547693
+            }
+        },
+        "mode": "DNN"
+    },
+    "conv2d_16": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -30.05027369375229,
+                "max": 23.36566319105356
+            }
+        },
+        "mode": "DNN"
+    },
+    "batch_normalization_16": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -22.216700963649743,
+                "max": 16.27861837061863
+            }
+        },
+        "mode": "DNN"
+    },
+    "re_lu_11": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 16.27861837061863
+            }
+        },
+        "mode": "DNN"
+    },
+    "zero_padding2d_12": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 12.17924893777635
+            }
+        },
+        "mode": "DNN"
+    },
+    "conv2d_17": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -60.30651291324615,
+                "max": 54.10017636687667
+            }
+        },
+        "mode": "DNN"
+    },
+    "batch_normalization_17": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -30.1960407349968,
+                "max": 28.942763218070557
+            }
+        },
+        "mode": "DNN"
+    },
+    "re_lu_12": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 28.942763218070557
+            }
+        },
+        "mode": "DNN"
+    },
+    "tf.slice": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 66.45352050750228
+            }
+        },
+        "mode": "DNN"
+    },
+    "tf.slice_1": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 32.976364651234704
+            }
+        },
+        "mode": "DNN"
+    },
+    "tf.slice_2": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 9.734606742858888
+            }
+        },
+        "mode": "DNN"
+    },
+    "tf.slice_3": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 4.782259464263916
+            }
+        },
+        "mode": "DNN"
+    },
+    "permute_1": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 66.45352050750228
+            }
+        },
+        "mode": "DNN"
+    },
+    "permute_3": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 32.976364651234704
+            }
+        },
+        "mode": "DNN"
+    },
+    "permute_5": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 9.734606742858888
+            }
+        },
+        "mode": "DNN"
+    },
+    "permute_7": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 4.782259464263916
+            }
+        },
+        "mode": "DNN"
+    },
+    "permute": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 66.45352050750228
+            }
+        },
+        "mode": "DNN"
+    },
+    "permute_2": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 32.976364651234704
+            }
+        },
+        "mode": "DNN"
+    },
+    "permute_4": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 9.734606742858888
+            }
+        },
+        "mode": "DNN"
+    },
+    "permute_6": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 4.782259464263916
+            }
+        },
+        "mode": "DNN"
+    },
+    "reshape": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 66.45352050750228
+            }
+        },
+        "mode": "DNN"
+    },
+    "reshape_1": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 32.976364651234704
+            }
+        },
+        "mode": "DNN"
+    },
+    "reshape_2": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 9.734606742858888
+            }
+        },
+        "mode": "DNN"
+    },
+    "reshape_3": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 4.782259464263916
+            }
+        },
+        "mode": "DNN"
+    },
+    "dense": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -40.43419987003325,
+                "max": 60.532770038327776
+            }
+        },
+        "mode": "DNN"
+    },
+    "dense_1": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -21.789623875923155,
+                "max": 21.726638948222792
+            }
+        },
+        "mode": "DNN"
+    },
+    "dense_2": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -7.267542362213135,
+                "max": 8.819256782531738
+            }
+        },
+        "mode": "DNN"
+    },
+    "dense_3": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -3.645909309387207,
+                "max": 8.0
+            }
+        },
+        "mode": "DNN"
+    },
+    "concatenate": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -18.13708740653992,
+                "max": 24.42008087558065
+            }
+        },
+        "mode": "DNN"
+    },
+    "dense_4": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -29.95688781093597,
+                "max": 51.31855012139943
+            }
+        },
+        "mode": "DNN"
+    },
+    "concatenate_1": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -36.04867722038269,
+                "max": 55.23072320326794
+            }
+        },
+        "mode": "DNN"
+    },
+    "concatenate_2": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -25.74592683599472,
+                "max": 35.02625051066936
+            }
+        },
+        "mode": "DNN"
+    },
+    "concatenate_3": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -17.462518988075256,
+                "max": 30.42553112394966
+            }
+        },
+        "mode": "DNN"
+    },
+    "concatenate_4": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -17.462518988075256,
+                "max": 30.42553112394966
+            }
+        },
+        "mode": "DNN"
+    },
+    "gru": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -0.9999995827674866,
+                "max": 1.0
+            }
+        },
+        "mode": "DNN"
+    },
+    "gru_1": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -1.0,
+                "max": 1.0
+            }
+        },
+        "mode": "DNN"
+    },
+    "gru_2": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -1.0,
+                "max": 1.0
+            }
+        },
+        "mode": "DNN"
+    },
+    "gru_3": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -1.0,
+                "max": 1.0
+            }
+        },
+        "mode": "DNN"
+    },
+    "dense_5": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -6.119226932525635,
+                "max": 6.7710280418396
+            }
+        },
+        "mode": "DNN"
+    },
+    "dense_6": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -3.387385129928589,
+                "max": 5.072005271911621
+            }
+        },
+        "mode": "DNN"
+    },
+    "dense_7": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -4.326609611511231,
+                "max": 5.0738525390625
+            }
+        },
+        "mode": "DNN"
+    },
+    "dense_8": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -5.786181449890137,
+                "max": 5.5609540939331055
+            }
+        },
+        "mode": "DNN"
+    },
+    "re_lu_13": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 6.7710280418396
+            }
+        },
+        "mode": "DNN"
+    },
+    "re_lu_14": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 5.072005271911621
+            }
+        },
+        "mode": "DNN"
+    },
+    "re_lu_15": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 5.0738525390625
+            }
+        },
+        "mode": "DNN"
+    },
+    "re_lu_16": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 5.5609540939331055
+            }
+        },
+        "mode": "DNN"
+    },
+    "concatenate_5": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 6.7710280418396
+            }
+        },
+        "mode": "DNN"
+    },
+    "reshape_4": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 6.7710280418396
+            }
+        },
+        "mode": "DNN"
+    },
+    "permute_8": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 6.7710280418396
+            }
+        },
+        "mode": "DNN"
+    },
+    "conv2d_15": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -129.28431064590453,
+                "max": 77.75543679463442
+            }
+        },
+        "mode": "DNN"
+    },
+    "permute_9": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 6.7710280418396
+            }
+        },
+        "mode": "DNN"
+    },
+    "batch_normalization_15": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -31.59633113529205,
+                "max": 17.580460913460996
+            }
+        },
+        "mode": "DNN"
+    },
+    "add": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -30.514643187332155,
+                "max": 18.185564572667687
+            }
+        },
+        "mode": "DNN"
+    },
+    "zero_padding2d_13": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -25.62245455331802,
+                "max": 14.254599782996593
+            }
+        },
+        "mode": "DNN"
+    },
+    "conv2d_18": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -6.309059047393799,
+                "max": 8.43788797641156
+            }
+        },
+        "mode": "DNN"
+    },
+    "batch_normalization_18": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -6.651607323737144,
+                "max": 9.487633220508885
+            }
+        },
+        "mode": "DNN"
+    },
+    "re_lu_17": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 9.487633220508885
+            }
+        },
+        "mode": "DNN"
+    },
+    "conv2d_transpose": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -7.118117987642288,
+                "max": 6.967706597883421
+            }
+        },
+        "mode": "DNN"
+    },
+    "batch_normalization_19": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -7.34227173661232,
+                "max": 7.943814618792061
+            }
+        },
+        "mode": "DNN"
+    },
+    "re_lu_18": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 7.943814618792061
+            }
+        },
+        "mode": "DNN"
+    },
+    "zero_padding2d_14": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 7.414499102316824
+            }
+        },
+        "mode": "DNN"
+    },
+    "conv2d_19": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -7.331108744597435,
+                "max": 7.035862183515235
+            }
+        },
+        "mode": "DNN"
+    },
+    "batch_normalization_20": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -8.843354803714751,
+                "max": 9.444225334647284
+            }
+        },
+        "mode": "DNN"
+    },
+    "conv2d_11": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -28.442615514621732,
+                "max": 24.05780780733789
+            }
+        },
+        "mode": "DNN"
+    },
+    "re_lu_19": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 9.444225334647284
+            }
+        },
+        "mode": "DNN"
+    },
+    "batch_normalization_11": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -16.164675153865815,
+                "max": 14.129133132089803
+            }
+        },
+        "mode": "DNN"
+    },
+    "add_1": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -14.112132555084228,
+                "max": 18.16289123884076
+            }
+        },
+        "mode": "DNN"
+    },
+    "conv2d_transpose_1": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -13.254839508953092,
+                "max": 16.0325354110048
+            }
+        },
+        "mode": "DNN"
+    },
+    "batch_normalization_21": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -8.050374268217087,
+                "max": 9.342011104353332
+            }
+        },
+        "mode": "DNN"
+    },
+    "re_lu_20": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 9.342011104353332
+            }
+        },
+        "mode": "DNN"
+    },
+    "zero_padding2d_15": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 9.262309744704794
+            }
+        },
+        "mode": "DNN"
+    },
+    "conv2d_20": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -8.306371409692764,
+                "max": 9.91777523973849
+            }
+        },
+        "mode": "DNN"
+    },
+    "batch_normalization_22": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -7.944639467668533,
+                "max": 10.420108914123944
+            }
+        },
+        "mode": "DNN"
+    },
+    "conv2d_8": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -31.79565725982666,
+                "max": 36.02698878012325
+            }
+        },
+        "mode": "DNN"
+    },
+    "re_lu_21": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 10.420108914123944
+            }
+        },
+        "mode": "DNN"
+    },
+    "batch_normalization_8": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -21.411790274391173,
+                "max": 22.49383097544637
+            }
+        },
+        "mode": "DNN"
+    },
+    "add_2": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -18.99458098068237,
+                "max": 27.117551926515038
+            }
+        },
+        "mode": "DNN"
+    },
+    "conv2d_transpose_2": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -15.085596947555542,
+                "max": 14.252944194527345
+            }
+        },
+        "mode": "DNN"
+    },
+    "batch_normalization_23": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -13.102503958644869,
+                "max": 9.077612974364456
+            }
+        },
+        "mode": "DNN"
+    },
+    "re_lu_22": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 9.077612974364456
+            }
+        },
+        "mode": "DNN"
+    },
+    "zero_padding2d_16": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 9.043897032260702
+            }
+        },
+        "mode": "DNN"
+    },
+    "conv2d_21": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -8.961167818098069,
+                "max": 12.459842458236722
+            }
+        },
+        "mode": "DNN"
+    },
+    "batch_normalization_24": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -5.647275735144615,
+                "max": 9.857589083645166
+            }
+        },
+        "mode": "DNN"
+    },
+    "conv2d_5": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -54.52361122341156,
+                "max": 25.06233294876006
+            }
+        },
+        "mode": "DNN"
+    },
+    "re_lu_23": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 9.857589083645166
+            }
+        },
+        "mode": "DNN"
+    },
+    "batch_normalization_5": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -36.60088436580658,
+                "max": 27.815574959254945
+            }
+        },
+        "mode": "DNN"
+    },
+    "add_3": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -35.07966544147492,
+                "max": 29.55635332832821
+            }
+        },
+        "mode": "DNN"
+    },
+    "conv2d_transpose_3": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -13.284095979032516,
+                "max": 7.7556200142090574
+            }
+        },
+        "mode": "DNN"
+    },
+    "batch_normalization_25": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -12.243665285978317,
+                "max": 6.86351098582702
+            }
+        },
+        "mode": "DNN"
+    },
+    "re_lu_24": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 6.86351098582702
+            }
+        },
+        "mode": "DNN"
+    },
+    "zero_padding2d_17": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 6.846179435565716
+            }
+        },
+        "mode": "DNN"
+    },
+    "conv2d_22": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -9.040897220287324,
+                "max": 5.329608966009971
+            }
+        },
+        "mode": "DNN"
+    },
+    "batch_normalization_26": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -6.118745900592804,
+                "max": 4.738916110793127
+            }
+        },
+        "mode": "DNN"
+    },
+    "conv2d_2": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -78.09584518424987,
+                "max": 62.75545818622186
+            }
+        },
+        "mode": "DNN"
+    },
+    "re_lu_25": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 4.738916110793127
+            }
+        },
+        "mode": "DNN"
+    },
+    "batch_normalization_2": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -39.431037425460815,
+                "max": 36.35898646235319
+            }
+        },
+        "mode": "DNN"
+    },
+    "add_4": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -38.78563238143921,
+                "max": 37.59072379827467
+            }
+        },
+        "mode": "DNN"
+    },
+    "zero_padding2d_18": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -38.67250027091979,
+                "max": 37.51368751592781
+            }
+        },
+        "mode": "DNN"
+    },
+    "conv2d_23": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -35.186378521385194,
+                "max": 4.918240979401617
+            }
+        },
+        "mode": "DNN"
+    },
+    "batch_normalization_27": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -21.4717862881279,
+                "max": 3.097297890692573
+            }
+        },
+        "mode": "DNN"
+    },
+    "re_lu_26": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 3.097297890692573
+            }
+        },
+        "mode": "DNN"
+    },
+    "zero_padding2d_19": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 3.09554537889332
+            }
+        },
+        "mode": "DNN"
+    },
+    "conv2d_24": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -5.11310771686554,
+                "max": 3.0913411467173546
+            }
+        },
+        "mode": "DNN"
+    },
+    "batch_normalization_28": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": -2.100163422448635,
+                "max": 1.3205491006210366
+            }
+        },
+        "mode": "DNN"
+    },
+    "re_lu_27": {
+        "quantization_params": {
+            "method": "uniform",
+            "bits": 8,
+            "clipping_param": "no_clip",
+            "activation_range": {
+                "min": 0.0,
+                "max": 1.3205491006210366
+            }
+        },
+        "mode": "DNN"
+    }
+}
